@@ -1,6 +1,6 @@
 Among the CS50 family of courses, [CS50x](https://cs50.harvard.edu/x/2023/) is undoubtedly the most popular. But I came across another course of theirs that piqued my interest: [CS50's Understanding Technology](https://cs50.harvard.edu/technology/2017/), AKA CS50T. According to the course website, the course is "[d]esigned for students who work with technology every day but don’t necessarily understand how it all works underneath the hood or how to solve problems when something goes wrong, this course fills in the gaps, empowering students to use and troubleshoot technology more effectively."
 
-![CS50T Certificate](../static/images/certificates/CS50T-Certificate.png)
+![CS50T Certificate](...)
 
 #### So, what actually is CS50T?
 
