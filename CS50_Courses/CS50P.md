@@ -4,6 +4,10 @@
 
 Most people are familiar with [CS50x](https://cs50.harvard.edu/x/2023/), Harvard’s Intro to Computer Science course - it is often recommended to newbie programmers (and basically shows up on every ‘how to learn to code for free’ list). However, there are other lesser-known online courses offered by Harvard’s Computer Science department. And since I wanted to brush up on my Python skills, I decided to take their [Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) course, AKA CS50P.
 
+<p align="center">
+  <img src="../CERTS_IMG/CS50P-Certificate.png" width="50%" />
+</p>
+
 CS50P is a lot like the regular CS50x course in its structure. The course is broken up into 10 “Weeks” (though, it’s entirely self-paced, so you can really think of them as “Modules”) where you first watch a 2-ish hour lecture, then complete related problem sets. There are around 40 problems to complete in total, and there is a Final Project to submit at the end of the course. So, you get a lot of practice with Python.
 
 This point is worth emphasizing: the teaching style is very much like a university course where you watch a lecture then complete a bunch of problems on your own afterward. It’s not like [freeCodeCamp](https://www.freecodecamp.org/learn/) or other online learning resources that give you lots of bite-sized problems as you learn. So if the university-style of learning isn’t for you, you’ll probably want to go elsewhere.
